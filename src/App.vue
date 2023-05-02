@@ -4,7 +4,7 @@
       <div class="hero-body">
         <div class="container">
           <div class="th-logo has-text-centered">
-            <img src="https://cdn.treehouseinternetgroup.com/cms_images/280/SF_Logo_sign-gen.png" alt="" style="width:300px">
+            <img src="https://cdn.treehouseinternetgroup.com/cms_images/813/FCSRI_Logo_RGB650w.png" alt="" style="width:400px">
           </div>
         <h1 class="sub-text title has-text-centered">
             <p>Signature Generator</p> 
@@ -75,7 +75,7 @@
         <div class="container">
             <div class="content has-text-centered">
                 <p>
-                    &copy;2021 Southeast Foundation &amp; Crawl Space Repair
+                    &copy;2023 Foundation and Crawl Space Repair of Idaho
                 </p>
             </div>
         </div>
@@ -201,7 +201,8 @@ input:disabled {
   margin-right: 100px;
 }
 .hero.is-primary {
-  background-color: #cccccc;
+  background-color: transparent;
+  border-bottom: 1px solid #333;
 }
 .button {
   margin-top: 10px;
@@ -226,7 +227,7 @@ input:disabled {
   margin-top: 10px;
 }
 .sub-text p {
-  color: #ffffff;
+  color: #333;
   font-family: "Barlow Condensed", sans-serif;
   font-weight: 700;
   font-size: 36px;

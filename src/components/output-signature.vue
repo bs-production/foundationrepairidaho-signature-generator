@@ -5,10 +5,10 @@
         "background: none; border-width: 0px; border: 0px; margin: 0; padding: 0;">
         <tr>
             <td valign="top" style="padding-top: 0; padding-bottom: 0; padding-left: 0; padding-right: 7px; border-top: 0; border-bottom: 0: border-left: 0;">
-              <a href="https://www.ncfoundationrepair.com">
-                <img v-show="mobilePhoneSwitch" width="220" height="139" style="width: 220px; max-width: 220px !important; height: 139px; max-height: 139px !important; margin-top: 5px;" id="preview-image-url" src="https://cdn.treehouseinternetgroup.com/cms_images/280/frontier-bs-logo_output.png" name="preview-image-url" />
+              <a href="https://www.foundationrepairidaho.com/">
+                <img v-show="mobilePhoneSwitch" width="220" height="139" style="width: 220px; max-width: 220px !important; height: 139px; max-height: 139px !important; margin-top: 5px;" id="preview-image-url" src="https://cdn.treehouseinternetgroup.com/cms_images/813/f-cs-idaho-logo-bar.png" name="preview-image-url" />
         
-                <img v-show="!mobilePhoneSwitch" width="190" height="121" style="width: 190px; max-width: 190px !important; height: 121px; max-height: 121px !important; margin-top: 5px;" id="preview-image-url" src="https://cdn.treehouseinternetgroup.com/cms_images/280/frontier-bs-logo_output.png" name="preview-image-url" />
+                <img v-show="!mobilePhoneSwitch" width="190" height="121" style="width: 190px; max-width: 190px !important; height: 121px; max-height: 121px !important; margin-top: 5px;" id="preview-image-url" src="https://cdn.treehouseinternetgroup.com/cms_images/813/f-cs-idaho-logo-bar.png" name="preview-image-url" />
               </a>
             </td>
             
@@ -70,28 +70,28 @@
                   </td>
                   <td valign="top" style=
                   "vertical-align: top; color: #333333; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
-                  <a href="https://www.ncfoundationrepair.com" style=
+                  <a href="https://www.foundationrepairidaho.com/" style=
                   "color: #333333; text-decoration: none; font-weight: normal; font-size: 14px;" target="_blank">
-                    ncfoundationrepair.com</a>
+                    foundationrepairidaho.com/</a>
                     &nbsp;&nbsp;
                   </td>
                 </tr>
 
                 <tr>
                   <td colspan="2" style="padding-top: 5px;">
-                    <a href="https://www.facebook.com/ncfoundationrepair/" style=
+                    <a href="https://www.facebook.com/foundationrepairidaho/" style=
                     "border-width:0px; border:0px; text-decoration: none;" target="_blank"><img width="25"
                     height="25" style=
                     "border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"
                     src=
                     "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/1874/facebook.png" /></a>
                     
-                    <a href="https://www.linkedin.com/company/southeast-foundation-&amp;-crawl-space-repair/about/" style=
+                    <!-- <a href="https://www.linkedin.com/company/southeast-foundation-&amp;-crawl-space-repair/about/" style=
                     "border-width:0px; border:0px; text-decoration: none;" target="_blank"><img width="25"
                     height="25" style=
                     "border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"
                     src=
-                    "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/1874/linkedin.png" /></a>
+                    "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/1874/linkedin.png" /></a> -->
                     
                     <!-- <a href="https://twitter.com/frontierbsmt?lang=en"
                     style=
@@ -101,14 +101,14 @@
                     src=
                     "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/169/twitter-icon.png" /></a> -->
 
-                    <!-- <a href="https://www.instagram.com/frontierbasementsystems/?hl=en"
+                    <a href="https://www.instagram.com/foundationrepairidaho/"
                     style=
                     "border-width:0px; border:0px; text-decoration: none;" target="_blank"><img width="25"
                     height="25" style=
                     "border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"
                     src=
-                    "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/1874/instagram.png" /></a> -->
-                    <a href="https://www.google.com/maps/place//data=!4m2!3m1!1s0x89abbfc29ca03207:0x81256bfed2a915a5?source=g.page.share"
+                    "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/1874/instagram.png" /></a>
+                    <!-- <a href="https://www.google.com/maps/place//data=!4m2!3m1!1s0x89abbfc29ca03207:0x81256bfed2a915a5?source=g.page.share"
                     style=
                     "border-width:0px; border:0px; text-decoration: none;" target="_blank"><img width="25"
                     height="25" style=
@@ -122,7 +122,7 @@
                     height="25" style=
                     "border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"
                     src=
-                    "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/1874/youtube.png" /></a>
+                    "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/1874/youtube.png" /></a> -->
                   </td>
                 </tr>
               </table>
