@@ -158,7 +158,7 @@ li {
   margin-left: 1px;
   background-color: #efefef;
   padding: 20px;
-  border-top: 1px dashed #273897;
+  border-top: 1px dashed #134c98;
 }
 .gif-box ul {
     text-align:left;
@@ -208,7 +208,7 @@ input:disabled {
   margin-top: 10px;
 }
 .button.is-success, .button.is-success[disabled] {
-  background-color: #273897;
+  background-color: #134c98;
   border-color: transparent;
   color: #fff;
 }
